@@ -6,7 +6,7 @@ A minimal C++ battery manager that triggers an alert.
 
 
 ### Compile
-> g++ main.cpp -o batalert 
+> g++ main.cpp -o bat_alert 
 ### Install
 > ln -s $(pwd)/bat_alert /usr/local/bin/
 ### How to use
